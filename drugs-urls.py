@@ -4,7 +4,7 @@ from modules.pharma import *
 from datetime import datetime
 
 # Inside do_NOT_git, "url" and "body" variables are declared.
-# As a personal preference, I prefer not to disclouse what website is being scraped
+# As a personal preference, I prefer not to disclose what website is being scraped
 from do_NOT_git import * 
 
 def scrapError(body, msg):
