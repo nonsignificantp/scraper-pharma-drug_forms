@@ -1,6 +1,6 @@
 # 💊 Scraper script for pharma data
 
-Three scipts for scraping drugs forms being sold in Argentina's pharmacies. The execution order is:
+Three scipts for scraping drugs forms being sold in Argentina's pharmacies. The execution order should be the following:
 
 ```
 $ python3 drugs-list.py
