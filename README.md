@@ -1,4 +1,4 @@
-# 💊 Scraper script for pharma data
+# 💊 Scraper scripts for pharma data
 
 Three scipts for scraping drugs forms being sold in Argentina's pharmacies. The execution order should be the following:
 
