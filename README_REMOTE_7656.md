@@ -10,4 +10,4 @@ $ python3 drugs-items.py
 
 ### Disclaimer
 
-Inside the script there is no reference on which webpage these scipts act on. As a personal preference, I prefer not to disclose that information.
+Inside the script there is no reference on which webpage this scipt acts on. As a personal preference, I prefer not to disclose that information.
